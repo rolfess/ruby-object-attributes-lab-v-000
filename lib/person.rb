@@ -1,3 +1,3 @@
 class Persom
-  attr_reader :name :job
+  attr_reader :name, :job
 end
